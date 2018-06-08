@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="background"> #cccccc</color>
+    <color name="colorAccent">#0049bf</color>
+    <color name="floatingbar">#adabab</color>
+    <color name="white">#ffffff</color>
+    <color name="loginColor">#4e64db</color>
+    <color name="navheader">#546cf2</color>
+    <color name="red">#ff7070</color>
+    <color name="yellow">#fcff9b</color>
+    <color name="green">#baff9b</color>
+    <color name="buttongrey">#9a9e99</color>
+    <color name="greendark">#8cff59</color>
+    <color name="reddark">#ff4242</color>
+    <color name="yellowdark">#f1f72e</color>
+    <color name="backgrounddark">#454647</color>
+</resources>

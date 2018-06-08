@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Kannada Kali</string>
+    <string name="quiza_text">Test Yourself!</string>
+    <string name="quizb_text">Identify the Text</string>
+    <string name="ip_hint">Server IP</string>
+    <string name="ip_button">OK</string>
+    <string name="quiz_main">Main image</string>
+    <string name="quiz_imagea">Image A</string>
+    <string name="quiz_imageb">Image B</string>
+    <string name="quiz_imagec">Image C</string>
+    <string name="quiz_imaged">Image D</string>
+    <string name="done">Done Cloud</string>
+    <string name="more">actionbar more</string>
+    <string name="PlaySample">Play Template</string>
+    <string name="RecordAudio">Record Sample</string>
+    <string name="numbers">Numbers</string>
+    <string name="quiz">Quiz</string>
+    <string name="colors">Colors</string>
+    <string name="flowers">Flowers</string>
+    <string name="fruits">Fruits</string>
+    <string name="animals">Animals</string>
+    <string name="birds">Birds</string>
+    <string name="Email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Login</string>
+    <string name="login">Login</string>
+    <string name="err_msg_password">Incorrect Password</string>
+    <string name="err_msg_email">Incorrect Email</string>
+    <string name="Settings">Settings</string>
+    <string name="Retry">Try Again</string>
+    <string name="startrec">Start Recording</string>
+    <string name="Evaluation">Your Score on 5!</string>
+</resources>
